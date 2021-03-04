@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Juego3D.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Menu.unity
+  isLoaded: 1
+  isActive: 1
